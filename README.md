@@ -1,10 +1,12 @@
 ### Hi there 👋
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/suzusan555/posts.svg)](http://qiita.com/suzusan555)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suzusan555&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suzusan555&layout=compact&theme=tokyonight)
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=suzusan555&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/tocoteron">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzusan555&layout=compact&theme=tokyonight" />
+</a>
 
 <!--
 **suzusan555/suzusan555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
