@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/suzusan555/posts.svg)](http://qiita.com/suzusan555)
+
 
 <!--
 **suzusan555/suzusan555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
