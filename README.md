@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/suzusan555/posts.svg)](http://qiita.com/suzusan555)
 
-[![](https://raw.githubusercontent.com/suzusan555/suzusan555/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?suzusan555=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **suzusan555/suzusan555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
